@@ -1,0 +1,8 @@
+a b cin
+s cout
+
+1 xor a b
+s xor 1 cin
+2 and cin 1
+3 and a b
+cout OR 2 3

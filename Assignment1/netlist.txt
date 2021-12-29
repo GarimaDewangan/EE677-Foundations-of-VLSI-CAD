@@ -1,0 +1,12 @@
+a b c d e f g
+x y
+h and a b
+i OR c d b
+j nand d e
+x Or n o y
+y AND k g
+k not f
+n xOr h i
+o nor j e
+
+
